@@ -6,4 +6,4 @@ Repositorio para armazenar resumo sobre Versionamento de Código com Git e GitHu
 ## 💻 Resumo das aulas
 | Aulas | Resumos |
 |-------|---------|
-| Git e github direto ao ponto | | Curso rápido |(https://www.youtube.com/live/xEKo29OWILE?si=vJWEOKRibXkoEZAl)
+| Git e github direto ao ponto | | Curso rápido |(https://www.youtube.com/live/xEKo29OWILE?si=vJWEOKRibXkoEZAl) |
